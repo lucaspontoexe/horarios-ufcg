@@ -1,5 +1,6 @@
 <template>
     <div class="table">
+        <filtros />
         <div class="header-dias">
             <span id="seg">SEG</span>
             <span id="ter">TER</span>
@@ -16,10 +17,12 @@
 
 <script>
 import horario from './Horario.vue';
+import filtros from './Filtros.vue';
 export default {
   name: "tabela",
   components: {
-    horario
+    horario,
+    filtros,
   }
 }
 </script>

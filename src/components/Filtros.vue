@@ -3,6 +3,8 @@
     <!-- todo: transformar botões em componentes -->
     <button class="toggle" :class="{ active: isActive }" @click="toggle">Optativas</button>
     <tag />
+    <tag />
+    <tag />
   </div>
 </template>
 

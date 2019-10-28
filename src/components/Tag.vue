@@ -7,7 +7,7 @@
   margin-right: 5px;
 
   border-radius: 20px;
-  border-color: blueviolet;
+  border-color: #671fa3;
   background: #fff;
   color: #444;
   font-weight: bold;
@@ -15,8 +15,8 @@
 }
 
 .toggle.active {
-  background: blueviolet;
-  color: whitesmoke;
+  background: #671fa3;
+  color: #fff;
 }
 
 </style>

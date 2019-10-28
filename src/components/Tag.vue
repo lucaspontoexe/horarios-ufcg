@@ -4,7 +4,7 @@
 
 <style>
 .toggle {
-  margin-right: 5px;
+  margin-right: 10px;
 
   border-radius: 20px;
   border-color: #671fa3;

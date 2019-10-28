@@ -1,5 +1,5 @@
 <template>
-  <button class="toggle" :class="{ active: isActive }" @click="toggle">Optativas</button>
+  <button class="toggle" :class="{ active: isActive }" @click="toggle"> um botão </button>
 </template>
 
 <style>

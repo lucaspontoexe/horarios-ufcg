@@ -13,6 +13,7 @@
 .filtros {
   display: flex;
   flex-direction: row;
+  margin: 20px;
 }
 
 </style>

@@ -6,11 +6,12 @@
 .toggle {
   margin-right: 5px;
 
-  border-radius: 10px;
+  border-radius: 20px;
   border-color: blueviolet;
   background: #fff;
   color: #444;
   font-weight: bold;
+  font-size: 20px;
 }
 
 .toggle.active {

@@ -11,7 +11,7 @@
   background: #fff;
   color: #444;
   font-weight: bold;
-  font-size: 20px;
+  font-size: 12pt;
 }
 
 .toggle.active {
